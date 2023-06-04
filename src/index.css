@@ -118,4 +118,5 @@ main {
   border: 1px solid black;
   margin-right: 5px;
   display: inline-block;
+  border-radius: 15px;
 }
