@@ -6,6 +6,7 @@ import Box from "./components/Box";
 export default function App() {
   return (
     <div>
+      <Counter />
       <Header />
       <Meme />
     </div>
